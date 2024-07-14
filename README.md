@@ -6,6 +6,8 @@
 cd server && python app.py
 ```
 
+Demo: [ERH-APK](https://delikely.github.io/ERH/)
+
 ### Generate Apk relation diagram
 
 ```sh

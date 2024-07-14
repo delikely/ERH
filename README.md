@@ -55,4 +55,4 @@ if (this.mEditText.getText().toString().equals("*#1337#*")) {
 
 ### Timeline
 
-- 2024/06/26 First public on <img src="assets/offbyone.png" alt="offbyone" style="zoom:2%;" />
+- 2024/06/26 First public on [Off-by-One Conference 2024](https://offbyone.sg)

@@ -1,0 +1,3583 @@
+{
+    "nodes": [
+        {
+            "name": "Calendar.apk",
+            "value": "com.android.calendar"
+        },
+        {
+            "name": "framework-res.apk",
+            "value": "android"
+        },
+        {
+            "name": "CalendarProvider.apk",
+            "value": "com.android.providers.calendar"
+        },
+        {
+            "name": "Calendar.vdex",
+            "value": ""
+        },
+        {
+            "name": "Camera.apk",
+            "value": "com.mediatek.camera"
+        },
+        {
+            "name": "mediatek-res.apk",
+            "value": "com.mediatek"
+        },
+        {
+            "name": "Camera.vdex",
+            "value": ""
+        },
+        {
+            "name": "Camera0.apk",
+            "value": "com.mediatek.camera0"
+        },
+        {
+            "name": "Gallery2.apk",
+            "value": "com.android.gallery3d"
+        },
+        {
+            "name": "Camera0.vdex",
+            "value": ""
+        },
+        {
+            "name": "Music.apk",
+            "value": "com.android.music"
+        },
+        {
+            "name": "Gallery2.vdex",
+            "value": ""
+        },
+        {
+            "name": "ModuleMetadata.apk",
+            "value": "com.android.modulemetadata"
+        },
+        {
+            "name": "MtkBrowser.apk",
+            "value": "com.android.browser"
+        },
+        {
+            "name": "Omacp.apk",
+            "value": "com.mediatek.omacp"
+        },
+        {
+            "name": "QuickSearchBox.apk",
+            "value": "com.android.quicksearchbox"
+        },
+        {
+            "name": "ExternalStorageProvider.apk",
+            "value": "com.android.externalstorage"
+        },
+        {
+            "name": "MtkDownloadProvider.apk",
+            "value": "com.android.providers.downloads"
+        },
+        {
+            "name": "MtkBrowser.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkWallpaperPicker.apk",
+            "value": "com.android.wallpaperpicker"
+        },
+        {
+            "name": "LiveWallpapersPicker.apk",
+            "value": "com.android.wallpaper.livepicker"
+        },
+        {
+            "name": "MtkWallpaperPicker.vdex",
+            "value": ""
+        },
+        {
+            "name": "Music.vdex",
+            "value": ""
+        },
+        {
+            "name": "Omacp.vdex",
+            "value": ""
+        },
+        {
+            "name": "QuickSearchBox.vdex",
+            "value": ""
+        },
+        {
+            "name": "webview.vdex",
+            "value": ""
+        },
+        {
+            "name": "AppleCarplay.apk",
+            "value": "com.njda.carplay"
+        },
+        {
+            "name": "BaiduCarlife.apk",
+            "value": "com.njda.carlife"
+        },
+        {
+            "name": "HuaweiHicar.apk",
+            "value": "com.njda.hicar"
+        },
+        {
+            "name": "CarService.apk",
+            "value": "com.android.car"
+        },
+        {
+            "name": "AppleCarplay.vdex",
+            "value": ""
+        },
+        {
+            "name": "ATMWifiMeta.apk",
+            "value": "com.mediatek.atmwifimeta"
+        },
+        {
+            "name": "SecureElement.apk",
+            "value": "com.android.se"
+        },
+        {
+            "name": "ATMWifiMeta.vdex",
+            "value": ""
+        },
+        {
+            "name": "AutoDialer.apk",
+            "value": "com.mediatek.autodialer"
+        },
+        {
+            "name": "AutoDialer.vdex",
+            "value": ""
+        },
+        {
+            "name": "AutoMap.vdex",
+            "value": ""
+        },
+        {
+            "name": "AutoTest.apk",
+            "value": "com.jsbd.autoTest"
+        },
+        {
+            "name": "BtPhone.apk",
+            "value": "com.jsbd.btactivity"
+        },
+        {
+            "name": "MultiMedia.apk",
+            "value": "com.jsbd.multimedia"
+        },
+        {
+            "name": "AutoTest.vdex",
+            "value": ""
+        },
+        {
+            "name": "BaiduCarlife.vdex",
+            "value": ""
+        },
+        {
+            "name": "BasicDreams.apk",
+            "value": "com.android.dreams.basic"
+        },
+        {
+            "name": "BatteryWarning.apk",
+            "value": "com.mediatek.batterywarning"
+        },
+        {
+            "name": "BatteryWarning.vdex",
+            "value": ""
+        },
+        {
+            "name": "BDCalendar.apk",
+            "value": "com.jsbd.calendar"
+        },
+        {
+            "name": "BDCalendar.vdex",
+            "value": ""
+        },
+        {
+            "name": "BDCameraService.apk",
+            "value": "com.jsbd.rvcservice"
+        },
+        {
+            "name": "BDCameraService.vdex",
+            "value": ""
+        },
+        {
+            "name": "BDSystemUIPlugin.apk",
+            "value": "com.jsbd.systemui.plugin"
+        },
+        {
+            "name": "Launcher.apk",
+            "value": "com.jsbd.launcher"
+        },
+        {
+            "name": "Setting.apk",
+            "value": "ecarx.settings"
+        },
+        {
+            "name": "CarLauncher.apk",
+            "value": "com.android.car.carlauncher"
+        },
+        {
+            "name": "CarSettings.apk",
+            "value": "com.android.car.settings"
+        },
+        {
+            "name": "MtkTelecom.apk",
+            "value": "com.android.server.telecom"
+        },
+        {
+            "name": "BluetoothMidiService.apk",
+            "value": "com.android.bluetoothmidiservice"
+        },
+        {
+            "name": "MtkBluetooth.apk",
+            "value": "com.android.bluetooth"
+        },
+        {
+            "name": "BluetoothMidiService.vdex",
+            "value": ""
+        },
+        {
+            "name": "BookmarkProvider.apk",
+            "value": "com.android.bookmarkprovider"
+        },
+        {
+            "name": "FactorySettings.apk",
+            "value": "ecarx.debugtools"
+        },
+        {
+            "name": "ContactsProvider.apk",
+            "value": "com.android.providers.contacts"
+        },
+        {
+            "name": "BuiltInPrintService.apk",
+            "value": "com.android.bips"
+        },
+        {
+            "name": "BuiltInPrintService.vdex",
+            "value": ""
+        },
+        {
+            "name": "CaptivePortalLogin.apk",
+            "value": "com.android.captiveportallogin"
+        },
+        {
+            "name": "CaptivePortalLogin.vdex",
+            "value": ""
+        },
+        {
+            "name": "CarFrameworkPackageStubs.apk",
+            "value": "com.android.car.frameworkpackagestubs"
+        },
+        {
+            "name": "CarFrameworkPackageStubs.vdex",
+            "value": ""
+        },
+        {
+            "name": "CarLatinIME.apk",
+            "value": "com.android.inputmethod.latin"
+        },
+        {
+            "name": "CarMapsPlaceholder.apk",
+            "value": "com.android.car.mapsplaceholder"
+        },
+        {
+            "name": "CaroceanUUIDTools.apk",
+            "value": "com.jsbd.carocean.uuidtools"
+        },
+        {
+            "name": "CaroceanUUIDTools.vdex",
+            "value": ""
+        },
+        {
+            "name": "CertInstaller.apk",
+            "value": "com.android.certinstaller"
+        },
+        {
+            "name": "CertInstaller.vdex",
+            "value": ""
+        },
+        {
+            "name": "changbahd.vdex",
+            "value": ""
+        },
+        {
+            "name": "puremic.apk",
+            "value": "com.loostone.puremic"
+        },
+        {
+            "name": "VRAdapter.apk",
+            "value": "com.jsbd.vradapter"
+        },
+        {
+            "name": "CompanionDeviceManager.apk",
+            "value": "com.android.companiondevicemanager"
+        },
+        {
+            "name": "CompanionDeviceManager.vdex",
+            "value": ""
+        },
+        {
+            "name": "CtsShimPrebuilt.apk",
+            "value": "com.android.cts.ctsshim"
+        },
+        {
+            "name": "DebugLoggerUI.apk",
+            "value": "com.debug.loggerui"
+        },
+        {
+            "name": "DocumentsUI.apk",
+            "value": "com.android.documentsui"
+        },
+        {
+            "name": "MtkTeleService.apk",
+            "value": "com.android.phone"
+        },
+        {
+            "name": "DebugLoggerUI.vdex",
+            "value": ""
+        },
+        {
+            "name": "DVR.vdex",
+            "value": ""
+        },
+        {
+            "name": "EasterEgg.apk",
+            "value": "com.android.egg"
+        },
+        {
+            "name": "EasterEgg.vdex",
+            "value": ""
+        },
+        {
+            "name": "ExtShared.apk",
+            "value": "android.ext.shared"
+        },
+        {
+            "name": "ncmutil.apk",
+            "value": "com.njda.ncmutil"
+        },
+        {
+            "name": "RadioCalibration.apk",
+            "value": "com.jsbd.radiocalibration"
+        },
+        {
+            "name": "FactorySettings.vdex",
+            "value": ""
+        },
+        {
+            "name": "Gba.apk",
+            "value": "com.mediatek.gba"
+        },
+        {
+            "name": "MtkTelephonyAssist.apk",
+            "value": "com.mediatek.telephony"
+        },
+        {
+            "name": "Gba.vdex",
+            "value": ""
+        },
+        {
+            "name": "GnssDebugReport.apk",
+            "value": "com.mediatek.gnssdebugreport"
+        },
+        {
+            "name": "GnssDebugReport.vdex",
+            "value": ""
+        },
+        {
+            "name": "HiSight.apk",
+            "value": "com.huawei.hisight"
+        },
+        {
+            "name": "HiViewLite.apk",
+            "value": "com.huawei.hiviewlite"
+        },
+        {
+            "name": "HiSight.vdex",
+            "value": ""
+        },
+        {
+            "name": "HiViewLite.vdex",
+            "value": ""
+        },
+        {
+            "name": "HTMLViewer.apk",
+            "value": "com.android.htmlviewer"
+        },
+        {
+            "name": "HTMLViewer.vdex",
+            "value": ""
+        },
+        {
+            "name": "HwDMSDPDevice.apk",
+            "value": "com.huawei.dmsdpdevice"
+        },
+        {
+            "name": "HwNearbyCar.apk",
+            "value": "com.huawei.nearby"
+        },
+        {
+            "name": "HuaweiHicar.vdex",
+            "value": ""
+        },
+        {
+            "name": "HwDMSDPDevice.vdex",
+            "value": ""
+        },
+        {
+            "name": "HwNearbyCar.vdex",
+            "value": ""
+        },
+        {
+            "name": "InputMethod.vdex",
+            "value": ""
+        },
+        {
+            "name": "KeyChain.apk",
+            "value": "com.android.keychain"
+        },
+        {
+            "name": "KeyChain.vdex",
+            "value": ""
+        },
+        {
+            "name": "kuwo.vdex",
+            "value": ""
+        },
+        {
+            "name": "CarMediaApp.apk",
+            "value": "com.android.car.media"
+        },
+        {
+            "name": "LiveWallpapersPicker.vdex",
+            "value": ""
+        },
+        {
+            "name": "LocationEM2.apk",
+            "value": "com.mediatek.lbs.em2.ui"
+        },
+        {
+            "name": "LPPeService.apk",
+            "value": "com.mediatek.location.lppe.main"
+        },
+        {
+            "name": "LocationEM2.vdex",
+            "value": ""
+        },
+        {
+            "name": "LPPeService.vdex",
+            "value": ""
+        },
+        {
+            "name": "LyraDaemon.vdex",
+            "value": ""
+        },
+        {
+            "name": "LyraView.vdex",
+            "value": ""
+        },
+        {
+            "name": "MDMConfig.apk",
+            "value": "com.mediatek.mdmconfig"
+        },
+        {
+            "name": "MDMConfig.vdex",
+            "value": ""
+        },
+        {
+            "name": "MDMLSample.apk",
+            "value": "com.mediatek.mdmlsample"
+        },
+        {
+            "name": "MDMLSample.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkBluetooth.vdex",
+            "value": ""
+        },
+        {
+            "name": "ncmutil.vdex",
+            "value": ""
+        },
+        {
+            "name": "NfcNci.apk",
+            "value": "com.android.nfc"
+        },
+        {
+            "name": "NfcNci.vdex",
+            "value": ""
+        },
+        {
+            "name": "OsuLogin.apk",
+            "value": "com.android.hotspot2"
+        },
+        {
+            "name": "OsuLogin.vdex",
+            "value": ""
+        },
+        {
+            "name": "PacProcessor.apk",
+            "value": "com.android.pacprocessor"
+        },
+        {
+            "name": "PrintRecommendationService.apk",
+            "value": "com.android.printservice.recommendation"
+        },
+        {
+            "name": "PrintSpooler.apk",
+            "value": "com.android.printspooler"
+        },
+        {
+            "name": "PrintSpooler.vdex",
+            "value": ""
+        },
+        {
+            "name": "puremic.vdex",
+            "value": ""
+        },
+        {
+            "name": "RadioCalibration.vdex",
+            "value": ""
+        },
+        {
+            "name": "SecureElement.vdex",
+            "value": ""
+        },
+        {
+            "name": "SimAppDialog.apk",
+            "value": "com.android.simappdialog"
+        },
+        {
+            "name": "SimAppDialog.vdex",
+            "value": ""
+        },
+        {
+            "name": "SystemUpdater.apk",
+            "value": "com.android.car.systemupdater"
+        },
+        {
+            "name": "Traceur.apk",
+            "value": "com.android.traceur"
+        },
+        {
+            "name": "Traceur.vdex",
+            "value": ""
+        },
+        {
+            "name": "DynamicSystemInstallationService.apk",
+            "value": "com.android.dynsystem"
+        },
+        {
+            "name": "ExtServices.apk",
+            "value": "android.ext.services"
+        },
+        {
+            "name": "MtkMmsService.apk",
+            "value": "com.android.mms.service"
+        },
+        {
+            "name": "MtkTelephonyProvider.apk",
+            "value": "com.android.providers.telephony"
+        },
+        {
+            "name": "VRAdapter.vdex",
+            "value": ""
+        },
+        {
+            "name": "VZWRemoteSimlockService.apk",
+            "value": "com.verizon.remoteSimlock"
+        },
+        {
+            "name": "WallpaperBackup.apk",
+            "value": "com.android.wallpaperbackup"
+        },
+        {
+            "name": "WallpaperBackup.vdex",
+            "value": ""
+        },
+        {
+            "name": "YGPS.apk",
+            "value": "com.mediatek.ygps"
+        },
+        {
+            "name": "YGPS.vdex",
+            "value": ""
+        },
+        {
+            "name": "youku.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtpDocumentsProvider.apk",
+            "value": "com.android.mtp"
+        },
+        {
+            "name": "FusedLocation.apk",
+            "value": "com.android.location.fused"
+        },
+        {
+            "name": "ImsService.apk",
+            "value": "com.mediatek.ims"
+        },
+        {
+            "name": "MtkDeskClock.apk",
+            "value": "com.android.deskclock"
+        },
+        {
+            "name": "MtkDownloadProviderUi.apk",
+            "value": "com.android.providers.downloads.ui"
+        },
+        {
+            "name": "am.vdex",
+            "value": ""
+        },
+        {
+            "name": "android.test.runner.vdex",
+            "value": ""
+        },
+        {
+            "name": "bmgr.vdex",
+            "value": ""
+        },
+        {
+            "name": "com.android.nfc_extras.vdex",
+            "value": ""
+        },
+        {
+            "name": "content.vdex",
+            "value": ""
+        },
+        {
+            "name": "duraspeed.vdex",
+            "value": ""
+        },
+        {
+            "name": "locksettings.vdex",
+            "value": ""
+        },
+        {
+            "name": "mediatek-framework-net.vdex",
+            "value": ""
+        },
+        {
+            "name": "mediatek-ims-extension-plugin.vdex",
+            "value": ""
+        },
+        {
+            "name": "mediatek-ims-legacy.vdex",
+            "value": ""
+        },
+        {
+            "name": "mediatek-services.vdex",
+            "value": ""
+        },
+        {
+            "name": "mediatek-wfo-legacy.vdex",
+            "value": ""
+        },
+        {
+            "name": "monkey.vdex",
+            "value": ""
+        },
+        {
+            "name": "requestsync.vdex",
+            "value": ""
+        },
+        {
+            "name": "sm.vdex",
+            "value": ""
+        },
+        {
+            "name": "uiautomator.vdex",
+            "value": ""
+        },
+        {
+            "name": "via-plugin.vdex",
+            "value": ""
+        },
+        {
+            "name": "car-frameworks-service.vdex",
+            "value": ""
+        },
+        {
+            "name": "services.vdex",
+            "value": ""
+        },
+        {
+            "name": "wifi-service.vdex",
+            "value": ""
+        },
+        {
+            "name": "BackupRestoreConfirmation.apk",
+            "value": "com.android.backupconfirm"
+        },
+        {
+            "name": "BackupRestoreConfirmation.vdex",
+            "value": ""
+        },
+        {
+            "name": "BlockedNumberProvider.apk",
+            "value": "com.android.providers.blockednumber"
+        },
+        {
+            "name": "BlockedNumberProvider.vdex",
+            "value": ""
+        },
+        {
+            "name": "CalendarProvider.vdex",
+            "value": ""
+        },
+        {
+            "name": "CallLogBackup.apk",
+            "value": "com.android.calllogbackup"
+        },
+        {
+            "name": "CallLogBackup.vdex",
+            "value": ""
+        },
+        {
+            "name": "CallRecorderService.apk",
+            "value": "com.mediatek.callrecorder"
+        },
+        {
+            "name": "CallRecorderService.vdex",
+            "value": ""
+        },
+        {
+            "name": "CarDialerApp.apk",
+            "value": "com.android.car.dialer"
+        },
+        {
+            "name": "CarMessengerApp.apk",
+            "value": "com.android.car.messenger"
+        },
+        {
+            "name": "PackageInstaller.apk",
+            "value": "com.android.packageinstaller"
+        },
+        {
+            "name": "CarService.vdex",
+            "value": ""
+        },
+        {
+            "name": "ContactsProvider.vdex",
+            "value": ""
+        },
+        {
+            "name": "DocumentsUI.vdex",
+            "value": ""
+        },
+        {
+            "name": "DynamicSystemInstallationService.vdex",
+            "value": ""
+        },
+        {
+            "name": "EngineerMode.vdex",
+            "value": ""
+        },
+        {
+            "name": "ExternalStorageProvider.vdex",
+            "value": ""
+        },
+        {
+            "name": "ExtServices.vdex",
+            "value": ""
+        },
+        {
+            "name": "ImsService.vdex",
+            "value": ""
+        },
+        {
+            "name": "InputDevices.apk",
+            "value": "com.android.inputdevices"
+        },
+        {
+            "name": "LocalMediaPlayer.apk",
+            "value": "com.android.car.media.localmediaplayer"
+        },
+        {
+            "name": "LocalTransport.apk",
+            "value": "com.android.localtransport"
+        },
+        {
+            "name": "LocalTransport.vdex",
+            "value": ""
+        },
+        {
+            "name": "ManagedProvisioning.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkCapCtrl.apk",
+            "value": "com.mediatek.capctrl.service"
+        },
+        {
+            "name": "MtkCapCtrl.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkDeskClock.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkDownloadProvider.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkDownloadProviderUi.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkMmsService.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkTelecom.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkTelephonyAssist.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkTelephonyProvider.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtkTeleService.vdex",
+            "value": ""
+        },
+        {
+            "name": "MtpDocumentsProvider.vdex",
+            "value": ""
+        },
+        {
+            "name": "MusicFX.apk",
+            "value": "com.android.musicfx"
+        },
+        {
+            "name": "MusicFX.vdex",
+            "value": ""
+        },
+        {
+            "name": "NetworkPermissionConfig.apk",
+            "value": "com.android.networkstack.permissionconfig"
+        },
+        {
+            "name": "NetworkStack.vdex",
+            "value": ""
+        },
+        {
+            "name": "ONS.apk",
+            "value": "com.android.ons"
+        },
+        {
+            "name": "ONS.vdex",
+            "value": ""
+        },
+        {
+            "name": "PackageInstaller.vdex",
+            "value": ""
+        },
+        {
+            "name": "AVM_CALIBRATION_DEMO.apk",
+            "value": "com.mediatek.avmcalibration"
+        },
+        {
+            "name": "MtkAvmDemo.apk",
+            "value": "com.mediatek.avm"
+        },
+        {
+            "name": "EmCamera.apk",
+            "value": "com.mediatek.emcamera"
+        },
+        {
+            "name": "EmCamera.vdex",
+            "value": ""
+        },
+        {
+            "name": "SensorHub.apk",
+            "value": "com.mediatek.sensorhub.ui"
+        },
+        {
+            "name": "SensorHub.vdex",
+            "value": ""
+        }
+    ],
+    "links": [
+        {
+            "source": "Calendar.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Calendar.apk",
+            "target": "CalendarProvider.apk"
+        },
+        {
+            "source": "Calendar.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Calendar.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Camera.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Camera.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Camera.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Camera.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Camera0.apk",
+            "target": "Camera.apk"
+        },
+        {
+            "source": "Camera0.apk",
+            "target": "Gallery2.apk"
+        },
+        {
+            "source": "Camera0.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Camera0.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Camera0.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Camera0.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Gallery2.apk",
+            "target": "Music.apk"
+        },
+        {
+            "source": "Gallery2.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Gallery2.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Gallery2.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ModuleMetadata.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkBrowser.apk",
+            "target": "Omacp.apk"
+        },
+        {
+            "source": "MtkBrowser.apk",
+            "target": "QuickSearchBox.apk"
+        },
+        {
+            "source": "MtkBrowser.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkBrowser.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkBrowser.apk",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "MtkBrowser.apk",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "MtkBrowser.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkBrowser.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkWallpaperPicker.apk",
+            "target": "Gallery2.apk"
+        },
+        {
+            "source": "MtkWallpaperPicker.apk",
+            "target": "LiveWallpapersPicker.apk"
+        },
+        {
+            "source": "MtkWallpaperPicker.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkWallpaperPicker.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkWallpaperPicker.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Music.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Music.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Music.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Omacp.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Omacp.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Omacp.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Omacp.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "QuickSearchBox.apk",
+            "target": "MtkBrowser.apk"
+        },
+        {
+            "source": "QuickSearchBox.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "QuickSearchBox.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "QuickSearchBox.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "webview.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "webview.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "webview.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "webview.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AppleCarplay.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "AppleCarplay.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "AppleCarplay.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AppleCarplay.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "AppleCarplay.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AppleCarplay.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ATMWifiMeta.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "ATMWifiMeta.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ATMWifiMeta.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "ATMWifiMeta.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ATMWifiMeta.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AutoDialer.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AutoDialer.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "AutoDialer.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AutoDialer.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AutoMap.vdex",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "AutoMap.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AutoMap.vdex",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "AutoMap.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AutoTest.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "AutoTest.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "AutoTest.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "AutoTest.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AutoTest.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AutoTest.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BaiduCarlife.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "BaiduCarlife.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "BaiduCarlife.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BaiduCarlife.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "BaiduCarlife.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BaiduCarlife.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BasicDreams.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BatteryWarning.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BatteryWarning.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "BatteryWarning.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BatteryWarning.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BDCalendar.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BDCalendar.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BDCalendar.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "BDCameraService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BDCameraService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "Launcher.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "Setting.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "CarLauncher.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "CarSettings.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "MtkTelecom.apk"
+        },
+        {
+            "source": "BluetoothMidiService.apk",
+            "target": "MtkBluetooth.apk"
+        },
+        {
+            "source": "BluetoothMidiService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BluetoothMidiService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BluetoothMidiService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BookmarkProvider.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "FactorySettings.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "Launcher.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "ContactsProvider.apk"
+        },
+        {
+            "source": "BuiltInPrintService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BuiltInPrintService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BuiltInPrintService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CaptivePortalLogin.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CaptivePortalLogin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CaptivePortalLogin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarFrameworkPackageStubs.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarFrameworkPackageStubs.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "CarFrameworkPackageStubs.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarFrameworkPackageStubs.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarLatinIME.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarMapsPlaceholder.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarMapsPlaceholder.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "CaroceanUUIDTools.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CaroceanUUIDTools.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CaroceanUUIDTools.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CertInstaller.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CertInstaller.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "CertInstaller.apk",
+            "target": "CarSettings.apk"
+        },
+        {
+            "source": "CertInstaller.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CertInstaller.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "puremic.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "VRAdapter.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "puremic.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "VRAdapter.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "CompanionDeviceManager.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CompanionDeviceManager.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CompanionDeviceManager.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CtsShimPrebuilt.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DebugLoggerUI.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DebugLoggerUI.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "DebugLoggerUI.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "DebugLoggerUI.apk",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "DebugLoggerUI.apk",
+            "target": "MtkTeleService.apk"
+        },
+        {
+            "source": "DebugLoggerUI.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DebugLoggerUI.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DVR.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DVR.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "EasterEgg.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "EasterEgg.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "EasterEgg.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "EasterEgg.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ExtShared.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "MtkBrowser.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "DebugLoggerUI.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "ncmutil.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "RadioCalibration.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "CarSettings.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "FactorySettings.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "FactorySettings.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Gba.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Gba.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Gba.apk",
+            "target": "MtkTelephonyAssist.apk"
+        },
+        {
+            "source": "Gba.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Gba.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "GnssDebugReport.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "GnssDebugReport.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "GnssDebugReport.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "GnssDebugReport.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HiSight.apk",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiSight.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "HiSight.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "HiSight.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HiViewLite.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HiViewLite.vdex",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiViewLite.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HiViewLite.vdex",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiViewLite.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HTMLViewer.apk",
+            "target": "MtkBrowser.apk"
+        },
+        {
+            "source": "HTMLViewer.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HTMLViewer.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HTMLViewer.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "HwDMSDPDevice.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "HwNearbyCar.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HuaweiHicar.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HuaweiHicar.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.apk",
+            "target": "HiSight.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.apk",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.apk",
+            "target": "HwNearbyCar.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HwNearbyCar.apk",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HwNearbyCar.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "HwNearbyCar.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HwNearbyCar.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "HwNearbyCar.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "InputMethod.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "InputMethod.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "KeyChain.apk",
+            "target": "CertInstaller.apk"
+        },
+        {
+            "source": "KeyChain.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "KeyChain.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "KeyChain.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "kuwo.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "kuwo.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "BDCalendar.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "Setting.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "VRAdapter.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "CarMediaApp.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "LiveWallpapersPicker.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LiveWallpapersPicker.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LiveWallpapersPicker.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LocationEM2.apk",
+            "target": "LPPeService.apk"
+        },
+        {
+            "source": "LocationEM2.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LocationEM2.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "LocationEM2.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LocationEM2.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LPPeService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LPPeService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "LPPeService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LPPeService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LyraDaemon.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LyraDaemon.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LyraView.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LyraView.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MDMConfig.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MDMConfig.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MDMConfig.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MDMConfig.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MDMLSample.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MDMLSample.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MDMLSample.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MDMLSample.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkBluetooth.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "MtkBluetooth.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkBluetooth.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkBluetooth.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkBluetooth.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "Launcher.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "ncmutil.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ncmutil.vdex",
+            "target": "ncmutil.apk"
+        },
+        {
+            "source": "ncmutil.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ncmutil.vdex",
+            "target": "ncmutil.apk"
+        },
+        {
+            "source": "ncmutil.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "NfcNci.apk",
+            "target": "MtkBluetooth.apk"
+        },
+        {
+            "source": "NfcNci.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "NfcNci.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "NfcNci.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "OsuLogin.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "OsuLogin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "OsuLogin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "PacProcessor.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "PrintRecommendationService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "PrintSpooler.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "PrintSpooler.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "PrintSpooler.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "puremic.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "puremic.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "puremic.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "RadioCalibration.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "RadioCalibration.vdex",
+            "target": "RadioCalibration.apk"
+        },
+        {
+            "source": "RadioCalibration.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "RadioCalibration.vdex",
+            "target": "RadioCalibration.apk"
+        },
+        {
+            "source": "RadioCalibration.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SecureElement.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SecureElement.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SecureElement.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "PrintSpooler.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "SimAppDialog.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "SimAppDialog.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SimAppDialog.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SimAppDialog.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SystemUpdater.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SystemUpdater.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "Traceur.apk",
+            "target": "CertInstaller.apk"
+        },
+        {
+            "source": "Traceur.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "Traceur.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Traceur.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "Traceur.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "Traceur.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "Calendar.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "MtkBrowser.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "BluetoothMidiService.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "CertInstaller.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "CompanionDeviceManager.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "ExtShared.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "KeyChain.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "MtkBluetooth.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "NfcNci.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "PrintSpooler.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "DynamicSystemInstallationService.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "ExtServices.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "MtkMmsService.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "MtkTelephonyProvider.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "MtkTeleService.apk"
+        },
+        {
+            "source": "VRAdapter.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "VRAdapter.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "VZWRemoteSimlockService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "VZWRemoteSimlockService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "WallpaperBackup.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "WallpaperBackup.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "WallpaperBackup.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "YGPS.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "YGPS.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "YGPS.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "YGPS.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "Calendar.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "Gallery2.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "MtkBrowser.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "HwNearbyCar.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "NfcNci.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "MtpDocumentsProvider.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "Calendar.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "Gallery2.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "MtkBrowser.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "HwNearbyCar.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "NfcNci.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "MtpDocumentsProvider.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "ModuleMetadata.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "MtkWallpaperPicker.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "CarLatinIME.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "PrintSpooler.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "SimAppDialog.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "CalendarProvider.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "CarSettings.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "ExtServices.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "FusedLocation.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "ImsService.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "MtkDeskClock.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "MtkDownloadProviderUi.apk"
+        },
+        {
+            "source": "framework-res.apk",
+            "target": "MtkTeleService.apk"
+        },
+        {
+            "source": "mediatek-res.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "am.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "am.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "android.test.runner.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "android.test.runner.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "bmgr.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "bmgr.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "com.android.nfc_extras.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "com.android.nfc_extras.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "content.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "content.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "duraspeed.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "duraspeed.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "locksettings.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "locksettings.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-framework-net.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-framework-net.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-ims-extension-plugin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-ims-extension-plugin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-ims-legacy.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-ims-legacy.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-services.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-services.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-wfo-legacy.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-wfo-legacy.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "monkey.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "monkey.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "requestsync.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "requestsync.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "sm.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "sm.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "uiautomator.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "uiautomator.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "via-plugin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "via-plugin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "am.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "am.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "android.test.runner.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "android.test.runner.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "bmgr.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "bmgr.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "car-frameworks-service.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "car-frameworks-service.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "com.android.nfc_extras.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "com.android.nfc_extras.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "content.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "content.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "duraspeed.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "duraspeed.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "locksettings.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "locksettings.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-framework-net.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-framework-net.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-ims-extension-plugin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-ims-extension-plugin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-ims-legacy.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-ims-legacy.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-services.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-services.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-wfo-legacy.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "mediatek-wfo-legacy.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "monkey.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "monkey.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "requestsync.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "requestsync.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "services.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "services.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "sm.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "sm.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "uiautomator.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "uiautomator.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "via-plugin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "via-plugin.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "wifi-service.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "wifi-service.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BackupRestoreConfirmation.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BackupRestoreConfirmation.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BackupRestoreConfirmation.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BlockedNumberProvider.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BlockedNumberProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "BlockedNumberProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CalendarProvider.apk",
+            "target": "Calendar.apk"
+        },
+        {
+            "source": "CalendarProvider.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CalendarProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CalendarProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CallLogBackup.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CallLogBackup.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CallLogBackup.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CallRecorderService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CallRecorderService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "CallRecorderService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CallRecorderService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarDialerApp.apk",
+            "target": "MtkBluetooth.apk"
+        },
+        {
+            "source": "CarDialerApp.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarDialerApp.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "CarLauncher.apk",
+            "target": "Gallery2.apk"
+        },
+        {
+            "source": "CarLauncher.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "CarLauncher.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarLauncher.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "CarLauncher.apk",
+            "target": "CarMediaApp.apk"
+        },
+        {
+            "source": "CarLauncher.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "CarLauncher.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "CarMediaApp.apk",
+            "target": "MtkBluetooth.apk"
+        },
+        {
+            "source": "CarMediaApp.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarMediaApp.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "CarMessengerApp.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarMessengerApp.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "BDSystemUIPlugin.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "CertInstaller.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "MtkBluetooth.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "PrintSpooler.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "CarMediaApp.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "CarMessengerApp.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "MtpDocumentsProvider.apk"
+        },
+        {
+            "source": "CarService.apk",
+            "target": "PackageInstaller.apk"
+        },
+        {
+            "source": "CarService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "CertInstaller.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "HTMLViewer.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "MtkBluetooth.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "PrintSpooler.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "CarSettings.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "ContactsProvider.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "ContactsProvider.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ContactsProvider.apk",
+            "target": "CallLogBackup.apk"
+        },
+        {
+            "source": "ContactsProvider.apk",
+            "target": "MtkTeleService.apk"
+        },
+        {
+            "source": "ContactsProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ContactsProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DocumentsUI.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DocumentsUI.apk",
+            "target": "ExternalStorageProvider.apk"
+        },
+        {
+            "source": "DocumentsUI.apk",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "DocumentsUI.apk",
+            "target": "MtpDocumentsProvider.apk"
+        },
+        {
+            "source": "DocumentsUI.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DocumentsUI.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DynamicSystemInstallationService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DynamicSystemInstallationService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "DynamicSystemInstallationService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "EngineerMode.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "EngineerMode.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ExternalStorageProvider.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ExternalStorageProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ExternalStorageProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ExtServices.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ExtServices.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ExtServices.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "FusedLocation.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ImsService.apk",
+            "target": "Gba.apk"
+        },
+        {
+            "source": "ImsService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ImsService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "ImsService.apk",
+            "target": "MtkTeleService.apk"
+        },
+        {
+            "source": "ImsService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ImsService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "InputDevices.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LocalMediaPlayer.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LocalMediaPlayer.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "LocalMediaPlayer.apk",
+            "target": "CarMediaApp.apk"
+        },
+        {
+            "source": "LocalMediaPlayer.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "LocalTransport.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LocalTransport.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "LocalTransport.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ManagedProvisioning.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ManagedProvisioning.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkCapCtrl.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkCapCtrl.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkCapCtrl.apk",
+            "target": "MtkTeleService.apk"
+        },
+        {
+            "source": "MtkCapCtrl.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkCapCtrl.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDeskClock.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDeskClock.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkDeskClock.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDeskClock.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.apk",
+            "target": "MtkBrowser.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.apk",
+            "target": "CertInstaller.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.apk",
+            "target": "MtkDownloadProviderUi.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDownloadProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDownloadProviderUi.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDownloadProviderUi.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkDownloadProviderUi.apk",
+            "target": "MtkDownloadProvider.apk"
+        },
+        {
+            "source": "MtkDownloadProviderUi.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkDownloadProviderUi.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkMmsService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkMmsService.apk",
+            "target": "MtkTeleService.apk"
+        },
+        {
+            "source": "MtkMmsService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkMmsService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelecom.apk",
+            "target": "CertInstaller.apk"
+        },
+        {
+            "source": "MtkTelecom.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "MtkTelecom.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelecom.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkTelecom.apk",
+            "target": "CallRecorderService.apk"
+        },
+        {
+            "source": "MtkTelecom.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "MtkTelecom.apk",
+            "target": "MtkTelephonyAssist.apk"
+        },
+        {
+            "source": "MtkTelecom.apk",
+            "target": "MtkTeleService.apk"
+        },
+        {
+            "source": "MtkTelecom.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelecom.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelephonyAssist.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelephonyAssist.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkTelephonyAssist.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelephonyAssist.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelephonyProvider.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelephonyProvider.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkTelephonyProvider.apk",
+            "target": "MtkTelephonyAssist.apk"
+        },
+        {
+            "source": "MtkTelephonyProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTelephonyProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "CertInstaller.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "CarService.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "DocumentsUI.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "ImsService.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "MtkTelecom.apk"
+        },
+        {
+            "source": "MtkTeleService.apk",
+            "target": "MtkTelephonyAssist.apk"
+        },
+        {
+            "source": "MtkTeleService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkTeleService.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtpDocumentsProvider.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtpDocumentsProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtpDocumentsProvider.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MusicFX.apk",
+            "target": "Music.apk"
+        },
+        {
+            "source": "MusicFX.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MusicFX.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MusicFX.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "NetworkPermissionConfig.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "NetworkPermissionConfig.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "NetworkStack.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "NetworkStack.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ONS.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ONS.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "ONS.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "PackageInstaller.apk",
+            "target": "SecureElement.apk"
+        },
+        {
+            "source": "PackageInstaller.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "PackageInstaller.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "PackageInstaller.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AVM_CALIBRATION_DEMO.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "AVM_CALIBRATION_DEMO.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "AVM_CALIBRATION_DEMO.apk",
+            "target": "MtkAvmDemo.apk"
+        },
+        {
+            "source": "EmCamera.apk",
+            "target": "Camera.apk"
+        },
+        {
+            "source": "EmCamera.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "EmCamera.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "EmCamera.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "EmCamera.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkAvmDemo.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "MtkAvmDemo.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "SensorHub.apk",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SensorHub.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "SensorHub.vdex",
+            "target": "framework-res.apk"
+        },
+        {
+            "source": "SensorHub.vdex",
+            "target": "framework-res.apk"
+        }
+    ],
+    "categories": [
+        {
+            "name": "A"
+        }
+    ]
+}

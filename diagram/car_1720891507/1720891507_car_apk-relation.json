@@ -1,0 +1,635 @@
+{
+    "nodes": [
+        {
+            "name": "Camera.apk",
+            "value": "com.mediatek.camera"
+        },
+        {
+            "name": "mediatek-res.apk",
+            "value": "com.mediatek"
+        },
+        {
+            "name": "Camera0.apk",
+            "value": "com.mediatek.camera0"
+        },
+        {
+            "name": "Omacp.apk",
+            "value": "com.mediatek.omacp"
+        },
+        {
+            "name": "AppleCarplay.apk",
+            "value": "com.njda.carplay"
+        },
+        {
+            "name": "BaiduCarlife.apk",
+            "value": "com.njda.carlife"
+        },
+        {
+            "name": "HuaweiHicar.apk",
+            "value": "com.njda.hicar"
+        },
+        {
+            "name": "ATMWifiMeta.apk",
+            "value": "com.mediatek.atmwifimeta"
+        },
+        {
+            "name": "AutoDialer.apk",
+            "value": "com.mediatek.autodialer"
+        },
+        {
+            "name": "AutoTest.apk",
+            "value": "com.jsbd.autoTest"
+        },
+        {
+            "name": "BtPhone.apk",
+            "value": "com.jsbd.btactivity"
+        },
+        {
+            "name": "MultiMedia.apk",
+            "value": "com.jsbd.multimedia"
+        },
+        {
+            "name": "BatteryWarning.apk",
+            "value": "com.mediatek.batterywarning"
+        },
+        {
+            "name": "BDCameraService.apk",
+            "value": "com.jsbd.rvcservice"
+        },
+        {
+            "name": "BDSystemUIPlugin.apk",
+            "value": "com.jsbd.systemui.plugin"
+        },
+        {
+            "name": "Launcher.apk",
+            "value": "com.jsbd.launcher"
+        },
+        {
+            "name": "Setting.apk",
+            "value": "com.settings"
+        },
+        {
+            "name": "FactorySettings.apk",
+            "value": "com.debugtools"
+        },
+        {
+            "name": "changbahd.vdex",
+            "value": ""
+        },
+        {
+            "name": "puremic.apk",
+            "value": "com.loostone.puremic"
+        },
+        {
+            "name": "VRAdapter.apk",
+            "value": "com.jsbd.vradapter"
+        },
+        {
+            "name": "DebugLoggerUI.apk",
+            "value": "com.debug.loggerui"
+        },
+        {
+            "name": "ncmutil.apk",
+            "value": "com.njda.ncmutil"
+        },
+        {
+            "name": "RadioCalibration.apk",
+            "value": "com.jsbd.radiocalibration"
+        },
+        {
+            "name": "Gba.apk",
+            "value": "com.mediatek.gba"
+        },
+        {
+            "name": "MtkTelephonyAssist.apk",
+            "value": "com.mediatek.telephony"
+        },
+        {
+            "name": "GnssDebugReport.apk",
+            "value": "com.mediatek.gnssdebugreport"
+        },
+        {
+            "name": "HiSight.apk",
+            "value": "com.huawei.hisight"
+        },
+        {
+            "name": "HiViewLite.apk",
+            "value": "com.huawei.hiviewlite"
+        },
+        {
+            "name": "HiSight.vdex",
+            "value": ""
+        },
+        {
+            "name": "HiViewLite.vdex",
+            "value": ""
+        },
+        {
+            "name": "HwDMSDPDevice.apk",
+            "value": "com.huawei.dmsdpdevice"
+        },
+        {
+            "name": "HwNearbyCar.apk",
+            "value": "com.huawei.nearby"
+        },
+        {
+            "name": "BDCalendar.apk",
+            "value": "com.jsbd.calendar"
+        },
+        {
+            "name": "LocationEM2.apk",
+            "value": "com.mediatek.lbs.em2.ui"
+        },
+        {
+            "name": "LPPeService.apk",
+            "value": "com.mediatek.location.lppe.main"
+        },
+        {
+            "name": "MDMConfig.apk",
+            "value": "com.mediatek.mdmconfig"
+        },
+        {
+            "name": "MDMLSample.apk",
+            "value": "com.mediatek.mdmlsample"
+        },
+        {
+            "name": "ncmutil.vdex",
+            "value": ""
+        },
+        {
+            "name": "RadioCalibration.vdex",
+            "value": ""
+        },
+        {
+            "name": "VZWRemoteSimlockService.apk",
+            "value": "com.verizon.remoteSimlock"
+        },
+        {
+            "name": "YGPS.apk",
+            "value": "com.mediatek.ygps"
+        },
+        {
+            "name": "youku.vdex",
+            "value": ""
+        },
+        {
+            "name": "CallRecorderService.apk",
+            "value": "com.mediatek.callrecorder"
+        },
+        {
+            "name": "ImsService.apk",
+            "value": "com.mediatek.ims"
+        },
+        {
+            "name": "MtkCapCtrl.apk",
+            "value": "com.mediatek.capctrl.service"
+        },
+        {
+            "name": "AVM_CALIBRATION_DEMO.apk",
+            "value": "com.mediatek.avmcalibration"
+        },
+        {
+            "name": "MtkAvmDemo.apk",
+            "value": "com.mediatek.avm"
+        },
+        {
+            "name": "EmCamera.apk",
+            "value": "com.mediatek.emcamera"
+        },
+        {
+            "name": "SensorHub.apk",
+            "value": "com.mediatek.sensorhub.ui"
+        }
+    ],
+    "links": [
+        {
+            "source": "Camera.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Camera0.apk",
+            "target": "Camera.apk"
+        },
+        {
+            "source": "Camera0.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Omacp.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "AppleCarplay.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "AppleCarplay.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "ATMWifiMeta.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "AutoDialer.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "AutoTest.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "AutoTest.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "AutoTest.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "BaiduCarlife.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "BaiduCarlife.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "BaiduCarlife.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "BatteryWarning.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "BDCameraService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "Launcher.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "BDSystemUIPlugin.apk",
+            "target": "Setting.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "FactorySettings.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "Launcher.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "BtPhone.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "puremic.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "VRAdapter.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "puremic.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "VRAdapter.apk"
+        },
+        {
+            "source": "changbahd.vdex",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "DebugLoggerUI.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "DebugLoggerUI.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "ncmutil.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "RadioCalibration.apk"
+        },
+        {
+            "source": "FactorySettings.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Gba.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "Gba.apk",
+            "target": "MtkTelephonyAssist.apk"
+        },
+        {
+            "source": "GnssDebugReport.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "HiSight.apk",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "HiSight.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "HiSight.apk"
+        },
+        {
+            "source": "HiSight.vdex",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiViewLite.vdex",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HiViewLite.vdex",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "HwDMSDPDevice.apk"
+        },
+        {
+            "source": "HuaweiHicar.apk",
+            "target": "HwNearbyCar.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.apk",
+            "target": "HiSight.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.apk",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "HwDMSDPDevice.apk",
+            "target": "HwNearbyCar.apk"
+        },
+        {
+            "source": "HwNearbyCar.apk",
+            "target": "HiViewLite.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "BDCalendar.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "Setting.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "VRAdapter.apk"
+        },
+        {
+            "source": "Launcher.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "LocationEM2.apk",
+            "target": "LPPeService.apk"
+        },
+        {
+            "source": "LocationEM2.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "LPPeService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MDMConfig.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MDMLSample.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "Launcher.apk"
+        },
+        {
+            "source": "MultiMedia.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "ncmutil.vdex",
+            "target": "ncmutil.apk"
+        },
+        {
+            "source": "ncmutil.vdex",
+            "target": "ncmutil.apk"
+        },
+        {
+            "source": "RadioCalibration.vdex",
+            "target": "RadioCalibration.apk"
+        },
+        {
+            "source": "RadioCalibration.vdex",
+            "target": "RadioCalibration.apk"
+        },
+        {
+            "source": "Setting.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "AppleCarplay.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "BaiduCarlife.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "BtPhone.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "HuaweiHicar.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "MultiMedia.apk"
+        },
+        {
+            "source": "VRAdapter.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "VZWRemoteSimlockService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "YGPS.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "HwNearbyCar.apk"
+        },
+        {
+            "source": "youku.vdex",
+            "target": "HwNearbyCar.apk"
+        },
+        {
+            "source": "CallRecorderService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "ImsService.apk",
+            "target": "Gba.apk"
+        },
+        {
+            "source": "ImsService.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkCapCtrl.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkTelephonyAssist.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "AVM_CALIBRATION_DEMO.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "AVM_CALIBRATION_DEMO.apk",
+            "target": "MtkAvmDemo.apk"
+        },
+        {
+            "source": "EmCamera.apk",
+            "target": "Camera.apk"
+        },
+        {
+            "source": "EmCamera.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "MtkAvmDemo.apk",
+            "target": "mediatek-res.apk"
+        },
+        {
+            "source": "SensorHub.apk",
+            "target": "mediatek-res.apk"
+        }
+    ],
+    "categories": [
+        {
+            "name": "A"
+        }
+    ]
+}

@@ -17,12 +17,14 @@ function showMenu(param){
   menu.style.display = "block";
 }
 
+
+
 var app = {};
 var option;
-date = getUrlParamValue(location.href,'date')
-project = getUrlParamValue(location.href,'project')
-type = getUrlParamValue(location.href,'type')
-filter = getUrlParamValue(location.href,'filter')
+date = "1720891507";
+project = "car"
+type = "part";
+filter = "";
 
 myChart.showLoading();
 
@@ -37,7 +39,15 @@ function getUrlParamValue(url, name) {
 }
 
 function loadData(date,project,type){
-  $.getJSON("/get/relations?date=" + date + "&project=" + project + "&type=" + type + "&filter=" + filter, function (graph) {
+  var data_url = ""
+  if(type == 'part'){
+    var data_url = "diagram/"+project +"_" +date + "/" + date + "_" + project + "_apk-relation.json"
+  }
+  if(type == 'all'){
+    var data_url = "diagram/"+project +"_" +date + "/" + date + "_" + project + "_apk-relation-all.json"
+  }
+
+  $.getJSON(data_url, function (graph) {
     nodes = graph.nodes;
     myChart.hideLoading();
     graph.nodes.forEach(function (node) {
@@ -72,7 +82,7 @@ function loadData(date,project,type){
                 title:"Date View",
                 readOnly: false,
                 lang: ['Date View', 'Close', 'Update'], 
-                backgroundColor:"#fff", 
+                backgroundColor:"#fff",
                 textareaColor:"#fff", 
                 textareaBorderColor:"#333", 
                 textColor:"#000", 
@@ -183,9 +193,3 @@ if (option && typeof option === 'object') {
 
 window.addEventListener('resize', myChart.resize);
 window.scrollBy(0, 100);
-
-myChart.on('dblclick', function(params) {
-  var file = params.name;
-  var request = "/apk-relation?date=" + date + "&project=" + project + "&type=all&filter=" + file;
-  window.open(request);
-});

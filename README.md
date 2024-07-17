@@ -11,7 +11,7 @@ Demo: [ERH-APK](https://delikely.github.io/ERH/)
 ### Generate Apk relation diagram
 
 ```sh
-$ python apk_relation_finder.py -p "car" -d “/opt/car/filesystem/"
+$ python apk_relation_finder.py -p "car" -d "/opt/car/filesystem/"
 
  \          =o)
  (o>         /\

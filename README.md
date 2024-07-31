@@ -1,4 +1,5 @@
 ## Entity-Relation Diagram Assisted Hacking Tool
+Smart connected vehicles and smartphones contain a large number of APK files, which have intricate call relationships between them. An innovative approach has been proposed to create a visual and interactive call relationship analysis tool. By analyzing the call relationships between APK packages, an entity-relationship diagram is generated. By observing the direction of the arrows, one can intuitively see the call relationships. This tool has been used to identify dozens of engineering mode call chains in vehicle, and by reversing the caller, the engineering mode has been successfully activated, providing an analysis entry for vehicle penetration.
 
 ### Start web server
 

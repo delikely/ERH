@@ -224,7 +224,7 @@ def apk_relation_finder(filesystem_dir,project):
 if __name__ == '__main__':
     print(banner)
     parser = argparse.ArgumentParser(prog='PROG', usage='%(prog)s [options]', description='Android APK relation generation tool')
-    parser.add_argument('-d', '--dir', help='Android root filesystem directory',default="E:/CAR/固件文件系统/VW ICAS3CN_MP_2959/IVI filesystem/")
+    parser.add_argument('-d', '--dir', help='Android root filesystem directory')
     parser.add_argument('-p', '--project', help='Project name',default="hacking")
     args = parser.parse_args()
     filesystem_dir = args.dir

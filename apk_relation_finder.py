@@ -73,7 +73,7 @@ def apk_relation_finder(filesystem_dir,project):
         filesystem_dir += "/"
 
     packages,package_to_path,path_to_package = package_path_relation(filesystem_dir)
-    apk_file_list = get_file_list(filesystem_dir,[".apk",".vdex","vdex"])
+    apk_file_list = get_file_list(filesystem_dir,[".apk",".vdex","odex"])
 
     apk_relations = {}
 
@@ -230,5 +230,6 @@ if __name__ == '__main__':
     filesystem_dir = args.dir
     project = args.project
     apk_relation_finder(filesystem_dir,project)
+
 
 
